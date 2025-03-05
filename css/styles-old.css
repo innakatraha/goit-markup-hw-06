@@ -9,13 +9,6 @@
   background-size: cover;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
-.text-section-two {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-}
 .section-three {
   background-color: #f4f4fd;
   padding: 120px 0;
@@ -96,15 +89,8 @@
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
-.header-section-two {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 120%;
-  margin-bottom: 8px;
-}
-.item-list-section-two {
-  flex-basis: calc((100% - 72px) / 4);
-}
+
+
 
 
 
@@ -130,9 +116,7 @@
 .section-four {
   padding: 120px 0 120px 0;
 }
-.section-two {
-  padding: 120px 0;
-}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -145,10 +129,7 @@
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.list-section-two {
-  display: flex;
-  gap: 24px;
-}
+
 .list-section-tree {
   display: flex;
   gap: 24px;
@@ -174,17 +155,7 @@
 .item-list-header:last-child {
   margin-right: 332px;
 }
-.svg-wrap {
-  border: 1px solid #8e8f99;
-  border-radius: 4px;
-  width: 264px;
-  height: 112px;
-  background-color: #f4f4fd;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 8px;
-}
+
 .icons-container {
   width: 40px;
   height: 40px;
